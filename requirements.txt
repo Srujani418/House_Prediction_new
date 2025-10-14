@@ -1,0 +1,9 @@
+# Data handling
+pandas
+
+numpy
+
+# Machine learning & preprocessing
+
+scikit-learn
+dvc
