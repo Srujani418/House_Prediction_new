@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/srujani/Desktop/Training/Machine%20Learning/MLOps_capstone_version2/House_Prediction_new/mlruns/0/models/m-16e87a21383b4784b29ca8eaeaa810ac/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-16e87a21383b4784b29ca8eaeaa810ac
+model_size_bytes: 14581695
+model_uuid: m-16e87a21383b4784b29ca8eaeaa810ac
+prompts: null
+run_id: 1bc1a910e9e644bb8ed2c030e82ad5d9
+utc_time_created: '2025-10-15 12:27:07.302466'

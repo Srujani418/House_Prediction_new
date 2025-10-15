@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/srujani/Desktop/Training/Machine%20Learning/MLOps_capstone_version2/House_Prediction_new/mlruns/0/1bc1a910e9e644bb8ed2c030e82ad5d9/artifacts
+end_time: 1760531240048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bc1a910e9e644bb8ed2c030e82ad5d9
+run_name: luxuriant-rat-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760531226113
+status: 3
+tags: []
+user_id: srujani
