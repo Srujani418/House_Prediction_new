@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/srujani/Desktop/Training/Machine%20Learning/MLOps_capstone_version2/House_Prediction_new/mlruns/0/models/m-16e87a21383b4784b29ca8eaeaa810ac/artifacts
+creation_timestamp: 1760531227240
+experiment_id: '0'
+last_updated_timestamp: 1760531239971
+model_id: m-16e87a21383b4784b29ca8eaeaa810ac
+model_type: null
+name: random_forest_model
+source_run_id: 1bc1a910e9e644bb8ed2c030e82ad5d9
+status: 2
+status_message: null
